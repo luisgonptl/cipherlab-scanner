@@ -1,1 +1,1 @@
-# cipherlab-scanner
+# Cipherlab Scanner Plugin
